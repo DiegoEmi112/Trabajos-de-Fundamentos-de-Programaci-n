@@ -1,8 +1,9 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 25041722
 #include <iostream>
 using namespace std;
 int main() {
     int n;
-    unsigned long long factorial = 1; // Usamos unsigned long long para números grandes
     cout << "Introduce un numero entero positivo: ";
     cin >> n;
     if (n < 0) {
