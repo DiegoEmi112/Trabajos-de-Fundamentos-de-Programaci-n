@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 25041722
 /*programa que obtiene el mayor de tres números*/
 #include <iostream>
 #include <windows.h>
