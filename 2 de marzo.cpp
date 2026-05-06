@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 25041722
 #include <iostream>
 #include <windows.h> // Necesario para configurar la consola en Windows
 using namespace std;
