@@ -4,7 +4,7 @@
 #include<windows.h>
 namespace std;
 main()
-¨{
+{
 SetConsoleOutputCp(CP_UTF8);
 SetConsoleCP(CP_UTF8);
 int rc,ri,rb,cf;
