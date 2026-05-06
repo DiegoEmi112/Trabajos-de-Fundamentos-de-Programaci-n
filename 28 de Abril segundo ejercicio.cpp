@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 25041722
 #include<windows.h>
 #include<iostream>
 #include<time.h>
@@ -12,10 +14,8 @@ int main()
 		cin>>li;
 		cout<<"Dame el limite superior: ";
 		cin>>ls;
-		
 	}while(li>=ls);
 	do{
-	
 	cout<<"Dime el precio (entre "<<li<<" y "<<ls<<")";
 	cin>>precio;
 }while(precio<li or precio>ls);
@@ -23,4 +23,5 @@ do{
 	cout<<"Atinale al precio: ";
 	
 }
+	return 0
 }
