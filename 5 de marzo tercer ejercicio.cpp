@@ -1,4 +1,6 @@
- #include <iostream>
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 25041722
+#include <iostream>
 #include<windows.h>
 using namespace std;
 int main()
