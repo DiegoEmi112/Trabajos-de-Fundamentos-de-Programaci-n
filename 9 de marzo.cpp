@@ -1,7 +1,10 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 25041722
 #Include <lostream>
 #Include <Window.h>
 using manespace std;
-int main(){
+int main()
+{
 SetConsoleOutput(CP_UTF8);
 SetConsoleCP(CP_UTF8);
 float minutos, horas, residuo, min2;
