@@ -1,5 +1,5 @@
-// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
-// No. De Control: 25041722
+//Nombre del Alumno: Diego Emiliano Quiñones Barraza
+//No. de control: 25041722
 #include<iostream>
 using namespace std;
 int main()
@@ -19,4 +19,5 @@ int main()
 		cout<<""<<resultado<<"";
 	}
 	return 0;
+	
 }

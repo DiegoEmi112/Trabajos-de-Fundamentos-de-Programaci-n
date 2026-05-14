@@ -1,10 +1,11 @@
-// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
-// No. De Control: 25041722
+//Nombre del Alumno: Diego Emiliano Quiñones Barraza
+//No. de control: 25041722
 #include<lostream>
 #include<Windows.h>
 using namespace std;
 int main( )
 {
+	//Hola
 	SetConsoleOutputCp(CP_UTF8);
 	SetconsoleCP(CP_UTF8);
 	int numero;
