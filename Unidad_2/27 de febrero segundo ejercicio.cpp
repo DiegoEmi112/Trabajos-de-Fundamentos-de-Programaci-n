@@ -1,13 +1,13 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
 #include <iostream>
-#include<windows.h>//SetConsole
+#include<windows.h>
 using namespace std;
 int main(void)
 {
-
-
-SetConsoleOutputCP(CP_UTF8);//p/imprimir chrs especiales
-SetConsoleCP(CP_UTF8);//Leer chrs especiales
-int x;//declara variable entera
+SetConsoleOutputCP(CP_UTF8);
+SetConsoleCP(CP_UTF8);
+int x;
 cout<< "Dame un numero: ";
 cin>>x;
 cout<<"Hola Mundo\n";
