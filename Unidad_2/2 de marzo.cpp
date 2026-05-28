@@ -1,9 +1,11 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
 #include <iostream>
-#include <windows.h> // Necesario para configurar la consola en Windows
+#include <windows.h>
 using namespace std;
 int main(){
-SetConsoleOutputCP(CP_UTF8);//Configura la salida
-SetConsoleCP(CP_UTF8);//Configura la entrada
+SetConsoleOutputCP(CP_UTF8);
+SetConsoleCP(CP_UTF8);
 char cad [80];
 int i,j,k;
 puts("Usando scanf con juegos de inspección\n");
