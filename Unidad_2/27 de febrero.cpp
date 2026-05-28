@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
 #include <stdio.h>
 #include <conio.h>
 #include <iostream>
@@ -7,7 +9,7 @@ int main()
 {
 	int entera;
 	floot flotante;
-	chor letra, palabra [50];//declara var char y arreglo char de 50
+	chor letra, palabra [50];
 	SetConsoleOutputCP(CP_UTF8);
 	SetConsoleCP(CP_UTF8);
 	cout<<"Lectura de datos usando scanf\n";
@@ -27,8 +29,8 @@ int main()
 	cout<<entera<<"\n";
 	cout<<flotante<<"\n";
 	putchar(letra);
-	putchar('\n'); //cout<<Letra<<"\n';
-	puts (palabra);//cout<<polobra;
+	putchar('\n'); 
+	puts (palabra);
 	system("pause");
 	cout<<"Dame un entero, un flotante, un char y una cadena sin espacios: ";
 	fflush(stdin);
@@ -40,14 +42,14 @@ int main()
 	putchar('\n');
 	puts(palabra);
 	puts("\n");
-	cout<<fixed;// Estableces el formato fijo
+	cout<<fixed;
 	cout.precision(4);
 	cout<<"Impresión con precisión. \n El valor flotante a 4 decimales: "<< flotante<<"\n";
 	cout.precision(2);
-	cout << "Con 2 decimales: " << flotante << endl; // Imprime con 2 decimales
+	cout << "Con 2 decimales: " << flotante << endl; 
 	cout.precision(6);
-	cout << "Con 6 decimales: " << flotante << endl; // Imprime con 6 decimales
+	cout << "Con 6 decimales: " << flotante << endl; 
 	cout.unsetf(ios::fixed); // Desactiva fixedreturn 0;
-	cout << "Sin formato fijo: " << flotante << endl; // Imprime sin formato fijo
+	cout << "Sin formato fijo: " << flotante << endl; 
 	return 0;
 }
