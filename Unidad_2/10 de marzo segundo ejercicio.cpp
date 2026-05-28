@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
 #include<iostream>
 #include<windows.h>
 using namespace std;
@@ -25,6 +27,5 @@ int main()
 	pd=tr*5;
 	cfp=cf*100/pd;
 	cout<<"\nLa calificacion ponerada a 100% es: "<<cfp;
-	//Nombre del alumno: Diego Emiliano Quiñones Barraza No. De Control: 25041722
 	return 0;
 }
