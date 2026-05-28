@@ -1,10 +1,12 @@
-#include<stdio.h>//system
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
+#include<stdio.h>
 #include<iostream>
 #include<windows.h>
 using namespace std;
 int main(){
-SetConsoleOutputCP (CP_UTF8);//Controlar salida
-SetConsoleCP(CP_UTF8);//Controlar entrada
+SetConsoleOutputCP (CP_UTF8);
+SetConsoleCP(CP_UTF8);
 char c;
 char letras [20]="Hexadecimal";
 int i;
@@ -28,8 +30,8 @@ fflush(stdin);
 scanf("%f",&f);//cin>>f;
 cout<<"Dame un carácter: ";
 fflush(stdin);
-scanf("%c",&c);//No acepta caracteres especiales
-cin>>c;//No acepta caracteres especiales
+scanf("%c",&c);
+cin>>c;
 //c=getchar();//No acepta caracteres especiales
 printf("Dame una cadena: ");
 fflush(stdin);
