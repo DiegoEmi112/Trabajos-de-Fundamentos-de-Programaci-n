@@ -1,8 +1,10 @@
-clude<iostream>
-clude<windows.h>
-ng namespace std;
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
+include<iostream>
+include<windows.h>
+using namespace std;
 main()
-¨{
+{
 SetConsoleOutputCp(CP_UTF8);
 SetConsoleCP(CP_UTF8);
 int rc,ri,rb,cf;
