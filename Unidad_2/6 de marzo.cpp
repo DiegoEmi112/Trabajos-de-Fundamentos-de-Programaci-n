@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
 #include<iostream>
 #include<windows.h>
 using namespace std;
@@ -11,11 +13,9 @@ int main()
 	cout<<"Dame la medida del lado 2: ";
 	cin>>lado2;
 	area=lado1*lado2;
-	perimetro=(lado1*2)+(lado2*2);//Lado1+lado1+lado2+lado2;
-	//impresion con out
+	perimetro=(lado1*2)+(lado2*2);
 	cout<<"El area mide: "<<area<<"\n";
 	cout<<"El perimetro mide: "<<perimetro<<"\n";
-	//impresion con printf
 	printf("El area mide: %5.0f\n",area);
 	printf("El area mide: %5.2",perimetro);
 	return 0;
