@@ -1,3 +1,5 @@
+// Nombre Del Alumno: Diego Emiliano Quiñones Barraza 
+// No. De Control: 2504172
 #Include <lostream>
 #Include <Window.h>
 using manespace std;
@@ -8,7 +10,6 @@ float minutos, horas, residuo, min2;
 cout<<"Dame la cantidad de minutos a convertir: ";
 cin>>minutos;
 horas=trunc(minutos/60);
-//residuo=(minutos/60)-trunc(minutos/60);
 residuo=(minutos/60)-horas;
 min2=residuo*60;
 cout<<minutos<<" minutos equivale a "<<horas<<":"<<min2<<" horas\n";
