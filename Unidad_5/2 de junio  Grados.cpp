@@ -1,3 +1,5 @@
+//Nombre del alumno: Diego Emiliano Quiñones Barraza
+//Numero de Control: 25041722
 #include<iostream>
 using namespace std;
 double ctof(double centi);
