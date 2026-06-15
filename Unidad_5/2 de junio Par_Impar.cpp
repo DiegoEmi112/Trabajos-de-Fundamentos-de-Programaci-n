@@ -1,3 +1,5 @@
+//Nombre del Alumno: Diego Emiliano Quiñones Barraza
+//Numero de Control: 25041722
 #include<iostream>
 using namespace std;
 void parImpar(inr numero);
